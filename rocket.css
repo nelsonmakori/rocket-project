@@ -1,0 +1,114 @@
+
+.catoon-rocket{
+    height: 25px;
+    margin-top: 40px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.material-symbols-outlined{
+    color:white;
+    margin-left: 850px;
+    margin-top: 40px;
+}
+.search button{
+    justify-content: flex-end;
+}
+.main{
+   display: flex; 
+   justify-content: space-between;
+   line-height: 0.5px;
+   font-size: 7px;
+   font-weight: bolder;
+   border: 1px solid black;
+   margin-right: 15px;
+   width: 45%;
+   margin: auto;
+   height: 100%;
+   border-radius: 30px;
+   align-items: center;
+   background-color: white;
+   
+
+}
+.main input{
+    font-size: 8px;
+}
+.city{
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.city input{
+    background-color: white;
+    border-color: white;
+    border-style: hidden;
+}
+.search-icon img{
+    height: 30px;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.brand{
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.brand input{
+    border-style: hidden;
+}
+.host input{
+    border-style: hidden;
+}
+.starport input{
+    border-style: hidden;
+}
+.host{
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.host input{
+    border-style:hidden;
+}
+h2{
+    text-align: center;
+    color: white;
+    
+}
+.navigation{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+
+
+}
+.starport{
+    margin-left: 9px;
+    
+}
+.rocket-rental{
+    font-size: 8px;
+    color: white;
+    padding-top: 40px;
+    padding-left: 5px;
+}
+body{
+margin-top:0px;
+padding: 0;
+    background-image: url(rocketimages/rocket.jpg);
+}
+.MAIN{
+    margin-top: 140px;
+}
+.blue-rocket{
+  display: flex;
+  padding-left: 80px; 
+}
+.login{
+    height: 30px;
+    width: 70px;
+    margin-top: 40px;
+    background-color: blue;
+    color:white;
+    margin-right: 30px;
+}
