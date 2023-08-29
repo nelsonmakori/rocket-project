@@ -13,20 +13,17 @@
     color: white;
 }
 .search-btn{
-    margin-right: 50px;
-    margin-top: 20px;
-    vertical-align: top;
     color: white;
-    height:10px;
+    display: flex;
+    margin-top: 20px;
+    margin-right: 20px;
 }
 button{
+    background-color: blue;
+    border-radius: 10px;
+    border: hidden;
     color: white;
-    background-color: rgb(54, 54, 192);
-    border: none;
-    border-radius:15px;
-    height: 25px;
-    margin-bottom: 12px;
-    
+    height: 20px;
 }
 .main p{
     text-align: center;
