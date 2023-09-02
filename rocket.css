@@ -95,4 +95,23 @@ body{
     background-image: url(rocketimages/rocket.jpg);
     background-size:cover;
     background-repeat: no-repeat;
+    scroll-behavior: smooth;
+    overflow-y:auto;
+}
+.html{
+    scroll-behavior: smooth;
+    height: 100%;
+}
+.parent-footer{
+    color: white;
+    height:50px;
+    width: 250px;
+padding-left: 83%;
+    padding-top: 137px;
+    font-size: 13px;
+}
+section{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
 }
